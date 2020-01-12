@@ -1,0 +1,7 @@
+com\rabo\service\ParserService.class
+com\rabo\parser\BaseFileParser.class
+com\rabo\parser\XMLFileParser.class
+com\rabo\RaboApplication.class
+com\rabo\parser\CSVFileParser.class
+com\rabo\controller\ParserController.class
+com\rabo\parser\ParserClient.class

@@ -1,0 +1,40 @@
+2020-01-12 16:12:06,686 INFO com.rabo.RaboApplication [main] Starting RaboApplication on computer with PID 6524 (D:\pyt\workspace-sts-new04\rabo\target\classes started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 16:12:06,695 INFO com.rabo.RaboApplication [main] No active profile set, falling back to default profiles: default
+2020-01-12 16:12:10,068 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-01-12 16:12:10,071 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-12 16:12:10,533 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-01-12 16:12:12,113 INFO com.rabo.RaboApplication [main] Started RaboApplication in 6.56 seconds (JVM running for 9.288)
+2020-01-12 16:12:55,489 INFO com.rabo.RaboApplication [main] Starting RaboApplication on computer with PID 6680 (D:\pyt\workspace-sts-new04\rabo\target\classes started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 16:12:55,498 INFO com.rabo.RaboApplication [main] No active profile set, falling back to default profiles: default
+2020-01-12 16:12:58,749 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2020-01-12 16:12:58,751 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-12 16:12:59,144 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2020-01-12 16:13:00,724 INFO com.rabo.RaboApplication [main] Started RaboApplication in 6.694 seconds (JVM running for 8.95)
+2020-01-12 16:13:21,861 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8082-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-01-12 18:23:41,025 INFO com.rabo.XMLParserTest [main] Starting XMLParserTest on computer with PID 6256 (started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 18:23:41,046 INFO com.rabo.XMLParserTest [main] No active profile set, falling back to default profiles: default
+2020-01-12 18:23:46,516 INFO com.rabo.XMLParserTest [main] Started XMLParserTest in 6.884 seconds (JVM running for 12.034)
+2020-01-12 18:24:35,436 INFO com.rabo.XMLParserTest [main] Starting XMLParserTest on computer with PID 5612 (started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 18:24:35,440 INFO com.rabo.XMLParserTest [main] No active profile set, falling back to default profiles: default
+2020-01-12 18:24:40,683 INFO com.rabo.XMLParserTest [main] Started XMLParserTest in 6.295 seconds (JVM running for 9.87)
+2020-01-12 18:27:01,468 INFO com.rabo.XMLParserTest [main] Starting XMLParserTest on computer with PID 3760 (started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 18:27:01,472 INFO com.rabo.XMLParserTest [main] No active profile set, falling back to default profiles: default
+2020-01-12 18:27:06,967 INFO com.rabo.XMLParserTest [main] Started XMLParserTest in 6.864 seconds (JVM running for 12.332)
+2020-01-12 18:36:26,789 INFO com.rabo.XMLParserTest [main] Starting XMLParserTest on computer with PID 800 (started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 18:36:26,793 INFO com.rabo.XMLParserTest [main] No active profile set, falling back to default profiles: default
+2020-01-12 18:36:32,006 INFO com.rabo.XMLParserTest [main] Started XMLParserTest in 6.488 seconds (JVM running for 12.264)
+2020-01-12 18:37:31,120 INFO com.rabo.XMLParserTest [main] Starting XMLParserTest on computer with PID 3280 (started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 18:37:31,141 INFO com.rabo.XMLParserTest [main] No active profile set, falling back to default profiles: default
+2020-01-12 18:37:36,822 INFO com.rabo.XMLParserTest [main] Started XMLParserTest in 6.92 seconds (JVM running for 12.277)
+2020-01-12 18:38:29,930 INFO com.rabo.XMLParserTest [main] Starting XMLParserTest on computer with PID 2640 (started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 18:38:29,934 INFO com.rabo.XMLParserTest [main] No active profile set, falling back to default profiles: default
+2020-01-12 18:38:35,445 INFO com.rabo.XMLParserTest [main] Started XMLParserTest in 6.602 seconds (JVM running for 11.377)
+2020-01-12 18:41:00,154 INFO com.rabo.CSVParserTest [main] Starting CSVParserTest on computer with PID 4332 (started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 18:41:00,165 INFO com.rabo.CSVParserTest [main] No active profile set, falling back to default profiles: default
+2020-01-12 18:41:05,275 INFO com.rabo.CSVParserTest [main] Started CSVParserTest in 6.54 seconds (JVM running for 12.346)
+2020-01-12 18:41:49,300 INFO com.rabo.CSVParserTest [main] Starting CSVParserTest on computer with PID 424 (started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 18:41:49,305 INFO com.rabo.CSVParserTest [main] No active profile set, falling back to default profiles: default
+2020-01-12 18:41:54,161 INFO com.rabo.CSVParserTest [main] Started CSVParserTest in 6.144 seconds (JVM running for 11.398)
+2020-01-12 18:43:05,339 INFO com.rabo.XMLParserTest [main] Starting XMLParserTest on computer with PID 3180 (started by Shyam in D:\pyt\workspace-sts-new04\rabo)
+2020-01-12 18:43:05,344 INFO com.rabo.XMLParserTest [main] No active profile set, falling back to default profiles: default
+2020-01-12 18:43:10,212 INFO com.rabo.XMLParserTest [main] Started XMLParserTest in 6.197 seconds (JVM running for 11.656)
